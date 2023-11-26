@@ -6,6 +6,6 @@
 
 
 ***When the permission is denied then a rational dialogue is used for displaying  why the permission is required to run the app***
-
+https://i.imgur.com/f1MIE4A.gif
 
 
