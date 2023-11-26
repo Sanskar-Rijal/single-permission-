@@ -1,3 +1,3 @@
-# single-permission-
-asking camera permission from the user (basic and simple thing to learn)
-# when the permission is given
+#objective
+Main  motive  here is to know how to ask certain permissions from user 
+```in this example we are asking camera permission```
