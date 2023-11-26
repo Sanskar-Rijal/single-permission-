@@ -6,6 +6,6 @@
 
 
 ***When the permission is denied then a rational dialogue is used for displaying  why the permission is required to run the app***
-<a href="https://imgur.com/f1MIE4A" height=20 width=20><img src="https://i.imgur.com/f1MIE4A.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/f1MIE4A"><img src="https://i.imgur.com/f1MIE4A.gif" title="source: imgur.com" height=400 width=200 /></a>
 
 
